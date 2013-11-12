@@ -1,4 +1,5 @@
 #include "XSbench_header.h"
+// MULTIPOLE
 
 #ifdef MPI
 #include<mpi.h>
